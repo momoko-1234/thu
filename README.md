@@ -7,6 +7,7 @@
 
 ## Educations
 
+* New Taipei Senior High School
 * B.S. in Food Science, Tunghai University
 * Food Business Management Integrated Master's Program
 

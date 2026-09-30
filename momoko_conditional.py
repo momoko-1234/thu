@@ -18,3 +18,14 @@ for sale in daily_sales:
 average_sales = total_revenue / len(daily_sales)
 print("Total Revenue:", total_revenue)
 print("Average Daily Sales:", average_sales)
+
+client = {
+"company_name": "Apex Logistics",
+"credit_limit_USD": 75000.0,
+"outstanding_balance_USD": 23400.0,
+}
+available_credit = (
+    client["credit_limit_USD"]
+    - client["outstanding_balance_USD"]
+)
+print(client["company_name"], available_credit)
